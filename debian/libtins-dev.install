@@ -1,0 +1,4 @@
+usr/include/*
+usr/lib/${env:DEB_HOST_MULTIARCH}/cmake/libtins/*.cmake
+usr/lib/${env:DEB_HOST_MULTIARCH}/pkgconfig/*
+usr/lib/${env:DEB_HOST_MULTIARCH}/libtins.so
